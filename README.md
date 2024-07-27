@@ -4,10 +4,7 @@
 - [Description](#description)
 - [License](#license)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+
 
 ## Description
 Note-Taker is a simple and intuitive application that allows users to create, view, update, and delete notes. This application is built using Node.js, Express, and a JSON file to store the notes.
